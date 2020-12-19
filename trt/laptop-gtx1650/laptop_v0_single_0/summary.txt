@@ -1,0 +1,6 @@
+USE_ONNX: False
+K: 1
+WINDOW_SIZE: 1000
+EXPLORE_THRESHOLD: 1000
+FPS: 30.0
+Wall time for all images: 20.290300 
