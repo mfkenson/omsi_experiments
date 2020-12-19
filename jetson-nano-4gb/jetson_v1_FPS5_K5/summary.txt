@@ -1,0 +1,7 @@
+USE_ONNX: True
+K: 5
+WINDOW_SIZE: 1000
+EXPLORE_THRESHOLD: 1000
+FPS: 5
+Overall Score: 0.924185 
+Wall time for all images: 964.815400 
