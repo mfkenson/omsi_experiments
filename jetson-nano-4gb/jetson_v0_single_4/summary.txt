@@ -3,4 +3,4 @@ K: 1
 WINDOW_SIZE: 1000
 EXPLORE_THRESHOLD: 1000
 FPS: 30.0
-Wall time for all images: 267.721200 
+Wall time for all images: 268.766900 
